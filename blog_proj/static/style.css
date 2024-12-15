@@ -1,0 +1,168 @@
+/*body{
+
+    background: rgb(30,30,30);
+}
+
+
+.cover{
+    background-image: url('/media/background.jpg') ;
+    background-position: center;
+background-size: cover;
+height: 100vh;
+}
+
+.card {
+
+    background: rgb(74, 71, 71);
+}*/
+
+  
+.navbar{
+
+    /*background: rgb(53, 51, 51)*/
+    background: linear-gradient(45deg, #2c074f, #440174);
+}
+
+.navbar .nav-link {
+    background: linear-gradient(45deg, #200539, #340158);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    margin: 0 5px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    background: linear-gradient(45deg, #4b0082, #8a2be2);
+    color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(138, 43, 226, 0.6);
+    transform: scale(1.1);
+    text-decoration: none;
+}
+
+.btn {
+    background: linear-gradient(45deg, #8a2be2, #4b0082);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease;
+}
+
+
+.btn:hover {
+    background: linear-gradient(45deg, #4b0082, #8a2be2);
+    color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(138, 43, 226, 0.6);
+    transform: scale(1.1);
+    text-decoration: none;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+body {
+    background: linear-gradient(135deg, #1e0228, #1e003b, #11011b);
+    background-size: 400% 400%;
+    color: white; 
+    font-family: sans-serif
+}
+
+
+
+
+.card {
+    background: rgba(40, 40, 40, 0.95); 
+    color: white; 
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+}
+
+
+
+.modal-content{
+    background: rgba(40, 40, 40, 0.95); 
+    color: white; 
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    border-radius:  15px;
+    color: rgb(22, 20, 20)
+
+}
+
+
+.newpost {
+
+    background: linear-gradient(45deg, #601aa3, #440174); 
+    color: white; 
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    border-radius:  15px 15px 0px 0px;
+}
+.modal-header{
+    background: linear-gradient(45deg, #601aa3, #440174); 
+    color: white; 
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    border-radius:  15px 15px 0px 0px;
+    
+}
+
+
+.modal-body{
+    background: rgba(40, 40, 40, 0.95); 
+    color: white; 
+    padding: 20px 30px;
+}
+input[type="text"], input[type="password"], input[type="email"] {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #8a2be2;
+    outline: none;
+    box-shadow: 0 0 10px rgba(138, 43, 226, 0.5);
+    color: white;
+}
+
+.cover {
+    background-image: url('/media/background.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.6); 
+    height: 100vh;
+}
+
+.card-body {
+    padding: 20px 30px;
+}
+.custom-button {
+    padding: 8px 15px; 
+    border-radius: 25px;
+    text-transform: uppercase; 
+    font-weight: bold; 
+    transition: all 0.3s ease;
+}
+
+.custom-button:hover {
+    background: linear-gradient(45deg, #4b0082, #8a2be2); 
+    color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(138, 43, 226, 0.6);
+    transform: scale(1.1);
+    text-decoration: none;
+}
