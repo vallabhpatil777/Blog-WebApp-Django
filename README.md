@@ -1,4 +1,4 @@
-# Blog Web App (Django)
+# BlogHive Web App (Django)
 
 This is a blog web application built using Django. Users can create, edit, and delete blog posts, as well as add comments to posts. The app also includes user authentication (signup, login, logout) and the ability to edit user profiles.
 
@@ -29,9 +29,41 @@ Web Application is also deployed on pythonanywhere.com : https://vallabhpatil777
 - **Database**: SQLite (default database, can be switched to PostgreSQL, MySQL, etc.)
 - **Authentication**: Django's built-in user authentication system
 
+
+## Snapshots 
+
+
+### LoginPage 
+
+![image](https://github.com/user-attachments/assets/adaa4d56-7bc6-4c01-9877-c88e1a04bef0)
+
+
+### SignUpPage
+
+![image](https://github.com/user-attachments/assets/054e3a2b-028e-458f-96c5-907e67d96f70)
+
+
+### HomePage
+
+![image](https://github.com/user-attachments/assets/b47b9e0e-4b37-47c2-a7a3-0309c81eaf5e)
+
+
+### BlogDetailPage
+
+![image](https://github.com/user-attachments/assets/5978cc82-d3f7-4146-bf9a-b757d547cdf8)
+
+### ProfilePage
+
+![image](https://github.com/user-attachments/assets/a2d0599a-355f-4892-af17-b6691218ff93)
+
+### EditProfilePage
+
+![image](https://github.com/user-attachments/assets/bdec2f57-b0ff-4036-8b86-885caaff923e)
+
+
+
 ## Installation
 
-Follow these steps to get the project up and running on your local machine:
 
  **Clone this repository to your local machine:**
 
