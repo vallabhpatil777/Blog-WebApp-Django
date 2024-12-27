@@ -1,4 +1,8 @@
 *.html linguist-documentation
 *.css linguist-documentation
+<<<<<<< Updated upstream
 *.js linguist-documentation
+=======
+*.js linguist-language=JavaScript
+>>>>>>> Stashed changes
 *.py linguist-language=Python
