@@ -69,3 +69,6 @@ Web Application is also deployed on pythonanywhere.com : https://vallabhpatil777
 
    ```bash
    git clone https://github.com/your-username/blog-app.git
+
+
+## Pull request section : One review needed
